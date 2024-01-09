@@ -1,8 +1,19 @@
 # Machine learning-based estimation of spatial gene expression pattern during ESC-derived retinal organoid development
 
-This is the code of "Machine learning-based estimation of spatial gene expression pattern during ESC-derived retinal organoid development."
+This is the code of "[Machine learning-based estimation of spatial gene expression pattern during ESC-derived retinal organoid development](https://link.springer.com/article/10.1038/s41598-023-49758-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231220&utm_content=10.1038/s41598-023-49758-y)," Scientific Reports, 2023.
 <br>
-The paper on bioRxiv (https://www.biorxiv.org/content/10.1101/2023.03.26.534261v1)
+
+```
+@article{fujimura23,
+	author = {Fujimura, Yuki and Sakai, Itsuki and Shioka, Itsuki and Takata, Nozomu and Hashimoto, Atsushi and Funatomi, Takuya and Okuda, Satoru},
+	title = {Machine learning-based estimation of spatial gene expression pattern during ESC-derived retinal organoid development},
+	journal = {Scientific Reports},
+	volume={13},
+	number={1},
+	pages={22781},
+	year = 2023
+}
+```
 
 ## Requirements
 Our experimental environment is
